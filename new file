@@ -1,0 +1,3 @@
+INSERT into ship (ship_id, cart_id, cust_id, ship_add, pay_mode, total, created, ship_current_loc) VALUES
+('001','001','0003','abc pqr','credit','52000','NULL','banglore');
+
